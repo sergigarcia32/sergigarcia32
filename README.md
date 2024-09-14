@@ -9,7 +9,7 @@
 
 ## Perfil Profesional
 
-Soy un graduado en Ingeniería Informática y Servicios con 3 años de experiencia como **Software Engineer Full Stack** y 1 año en **Business Intelligence**. Tengo habilidades para desarrollar aplicaciones web completas, incluyendo blogs, ecommerce, dashboards, páginas corporativas, landing pages y portafolios.
+Soy un graduado en Ingeniería Informática y Servicios con 3 años de experiencia como **Software Engineer Full Stack** y 1 año en **Business Intelligence**. Tengo habilidades para desarrollar aplicaciones web completas, incluyendo blogs, ecommerce, dashboards, páginas corporativas, landing pages y portafolios. **En este repositorio voy subiendo proyectos que realizo en cursos online o proyectos personales** para poder consultar a la hora de desarrollar nuevos proyectos y mejorar mis buenas prácticas.
 
 ### Tecnologías y Herramientas
 
