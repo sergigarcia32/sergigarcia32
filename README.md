@@ -35,8 +35,5 @@ Poseo conocimientos teóricos básicos en estructuras de datos, algorítmica y p
 - **CFGS en Administración de Sistemas Informáticos en Red (ASIX)**  
   LaSalle Manlleu  
   - **Trabajo Final de Ciclo:** Página web de estadísticas de baloncesto para entrenadores. Utilicé HTML5, CSS3, JavaScript, PHP, SQL y base de datos MySQL.
-
-## Proyecto
-
-Este repositorio incluye ejemplos de proyectos que he desarrollado utilizando las tecnologías mencionadas. Cada proyecto demuestra mi capacidad para construir aplicaciones web completas, desde la interfaz de usuario hasta el backend.
+.
 
