@@ -23,7 +23,7 @@ Soy un graduado en Ingeniería Informática y Servicios con 3 años de experienc
 ### Idiomas
 
 - Catalán / Castellano: Nativo
-- Inglés: Hablado A2, Leído B1, Escrito A2
+- Inglés: Hablado A2, Leído A2, Escrito A2
 
 Poseo conocimientos teóricos básicos en estructuras de datos, algorítmica y patrones de diseño.
 
