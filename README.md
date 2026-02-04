@@ -18,14 +18,12 @@ Soy un graduado en Ingeniería Informática y Servicios con 3 años de experienc
 - **Frontend:** Angular, HTML5, Twig, CSS3, SASS, Bootstrap, JavaScript (jQuery)
 - **Backend:** Java, PHP, SQL, GitLab/GitHub, Git, MySQL, Pimcore, Symfony
 - **Otras Tecnologías:** Spring, Spring Boot, Docker, Tailwind, PostgreSQL
-- **Aprendizaje Actual:** Node.js, Python
 
 ### Idiomas
 
 - Catalán / Castellano: Nativo
 - Inglés: Hablado A2, Leído A2, Escrito A2
 
-Poseo conocimientos teóricos básicos en estructuras de datos, algorítmica y patrones de diseño.
 
 ## Formación Académica
 
