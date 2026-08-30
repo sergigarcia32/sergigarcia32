@@ -5,7 +5,7 @@
 - **Nombre:** Sergi García Jiménez
 - **LinkedIn:** [www.linkedin.com/in/sergi-garcía-jiménez](https://www.linkedin.com/in/sergi-garcía-jiménez)
 - **GitHub:** [github.com/sergigarcia32](https://github.com/sergigarcia32)
-- **Portafolio:** [sergigarcia32.github.io/portffolio](https://sergigarcia32.github.io/portffolio/)
+- **Portafolio:** [sergigarcia32.github.io/portffolio](https://sergigarcia32.github.io/portfolio/)
 
 ## Perfil Profesional
 
